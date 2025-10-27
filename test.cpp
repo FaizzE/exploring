@@ -18,7 +18,7 @@ public:
         age = a;
     }
 };
-
+// main function
 
 int main() {
     Student x("Arya stark", 89, 8.79, 15);
